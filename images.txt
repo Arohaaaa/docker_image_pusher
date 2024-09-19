@@ -7,3 +7,4 @@ langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
 nginx:latest
 mysql:8.1
+nvcr.io/nvidia/tritonserver:23.10-py3
